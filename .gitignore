@@ -1,0 +1,4 @@
+.env
+.venv/
+builds.db
+__pycache__/
